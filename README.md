@@ -23,3 +23,10 @@ terminal o comando ***`cd server`***
 após entrasr no diretório basta executar ***`yarn install`***\
 para instalar as dependencias do do Back-End.\
 para executarmos agora utilizaremos o ***`yarn start`***
+#
+
+## Depêndencias utilizadas
+foram utilizadas as dependencias a seguir Server:\ 
+`express` - Usado para criar as rotas e recuperar os parametros e valores passados.\ 
+`cors` - para corrigir e ajudar a evitar erros na conexão com o Front.\ 
+`mysql` - utilizado para armazenar os dados.
