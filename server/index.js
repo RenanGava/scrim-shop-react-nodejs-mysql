@@ -9,7 +9,7 @@ const mysql = require('mysql')
 const db = mysql.createPool({
     host: "localhost",
     user: "root",
-    password: "R3n@n87BR",
+    password: "--senha do banco de dados",
     database: "crudreact",
 })
 
